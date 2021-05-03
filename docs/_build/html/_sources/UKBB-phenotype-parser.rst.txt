@@ -6,6 +6,5 @@ This script will take the UKBB phenotype file and convert it into a format that 
 API
 ----
 
-.. automodule:: pparse
+.. automodule:: UKBB-phenotype-parser
       :members:
-
