@@ -18,7 +18,7 @@ os.environ['PYTHONPATH'] = ':'.join((package_path, os.environ.get('PYTHONPATH', 
 
 # -- Project information -----------------------------------------------------
 
-project = 'UKBB-phenotype-parser'
+project = 'UKBB_phenotype_parser'
 copyright = '2021, Patrick Tseng'
 author = 'Patrick Tseng'
 
