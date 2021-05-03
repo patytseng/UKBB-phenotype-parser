@@ -6,6 +6,6 @@ This script will take the UKBB phenotype file and convert it into a format that 
 API
 ----
 
-.. automodule:: pparse.parse_for_BOLT
+.. automodule:: pparse
       :members:
 
